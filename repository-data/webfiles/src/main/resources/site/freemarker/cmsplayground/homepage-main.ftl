@@ -9,6 +9,9 @@
       [This text can be edited
       <a href="http://localhost:8080/cms/?1&path=/content/documents/administration/labels/homepage" target="_blank">here</a>.]
     </p>
+    <p>
+      Hello World
+    </p>
   </#if>
 </div>
 <div>
