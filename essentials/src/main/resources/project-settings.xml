@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <project>
-  <projectNamespace>cmsplayground</projectNamespace>
-  <confirmParams>false</confirmParams>
-  <selectedProjectPackage>io.cmsexperiments</selectedProjectPackage>
-  <selectedBeansPackage>io.cmsexperiments.beans</selectedBeansPackage>
-  <selectedComponentsPackage>io.cmsexperiments.components</selectedComponentsPackage>
-  <selectedRestPackage>io.cmsexperiments.rest</selectedRestPackage>
-  <hstRoot>/hst:cmsplayground</hstRoot>
-  <webfileBundleName>site</webfileBundleName>
-  <setupDone>false</setupDone>
-  <useSamples>true</useSamples>
-  <extraTemplates>true</extraTemplates>
+    <applicationSubModule>application</applicationSubModule>
+    <cmsDependenciesModule>cms-dependencies</cmsDependenciesModule>
+    <cmsModule>cms</cmsModule>
+    <confirmParams>false</confirmParams>
+    <developmentSubModule>development</developmentSubModule>
+    <enterprise>false</enterprise>
+    <extraTemplates>true</extraTemplates>
+    <hstRoot>/hst:cmsplayground</hstRoot>
+    <projectNamespace>cmsplayground</projectNamespace>
+    <repositoryDataModule>repository-data</repositoryDataModule>
+    <selectedBeansPackage>io.cmsexperiments.beans</selectedBeansPackage>
+    <selectedComponentsPackage>io.cmsexperiments.components</selectedComponentsPackage>
+    <selectedProjectPackage>io.cmsexperiments</selectedProjectPackage>
+    <selectedRestPackage>io.cmsexperiments.rest</selectedRestPackage>
+    <setupDone>true</setupDone>
+    <siteContextPath>/site</siteContextPath>
+    <siteModule>site</siteModule>
+    <useSamples>true</useSamples>
+    <webfileBundleName>site</webfileBundleName>
+    <webfilesSubModule>webfiles</webfilesSubModule>
 </project>

@@ -1,6 +1,8 @@
 /content/documents/cmsplayground:
+  .meta:order-before: administration
   jcr:primaryType: hippostd:folder
   jcr:mixinTypes: ['hippo:named', 'hippotranslation:translated', 'mix:referenceable']
+  jcr:uuid: 71f52185-8f6b-4e32-9d51-b488d9b88639
   hippo:name: cmsplayground
   hippostd:foldertype: [new-translated-folder, new-document]
   hippotranslation:id: 996bcac5-86cf-49b5-a7a3-16a74863e814

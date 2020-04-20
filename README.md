@@ -19,3 +19,10 @@ admin / admin
 editor / editor
 author / author
 
+
+http://localhost:8080/cms/console
+http://localhost:8080/site
+http://localhost:8080/essentials/
+
+Rebuild: mvn verify
+         mvn -Pcargo.run -Drepo.path=./storage
