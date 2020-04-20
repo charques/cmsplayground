@@ -1,0 +1,6 @@
+site: cmsplayground
+group: cmsplayground
+project: cmsplayground
+module:
+  name: cmsplayground-repository-data-site-development
+  after: cmsplayground-repository-data-site

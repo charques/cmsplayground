@@ -1,0 +1,5 @@
+group: 
+  name: cmsplayground
+project: cmsplayground
+module:
+  name: cmsplayground-repository-data-webfiles

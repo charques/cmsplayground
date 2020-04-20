@@ -1,0 +1,7 @@
+group: 
+  name: cmsplayground
+  after: hippo-cms
+project: cmsplayground
+module: 
+  name: cmsplayground-repository-data-development
+  after: cmsplayground-repository-data-application

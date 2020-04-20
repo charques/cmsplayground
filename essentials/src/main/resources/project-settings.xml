@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project>
+  <projectNamespace>cmsplayground</projectNamespace>
+  <confirmParams>false</confirmParams>
+  <selectedProjectPackage>io.cmsexperiments</selectedProjectPackage>
+  <selectedBeansPackage>io.cmsexperiments.beans</selectedBeansPackage>
+  <selectedComponentsPackage>io.cmsexperiments.components</selectedComponentsPackage>
+  <selectedRestPackage>io.cmsexperiments.rest</selectedRestPackage>
+  <hstRoot>/hst:cmsplayground</hstRoot>
+  <webfileBundleName>site</webfileBundleName>
+  <setupDone>false</setupDone>
+  <useSamples>true</useSamples>
+  <extraTemplates>true</extraTemplates>
+</project>

@@ -1,0 +1,5 @@
+definitions:
+  namespace:
+    cmsplayground:
+      uri: http://www.cmsplayground.com/cmsplayground/nt/1.0
+      cnd: namespaces/cmsplayground.cnd
